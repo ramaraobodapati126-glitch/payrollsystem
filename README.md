@@ -1,7 +1,7 @@
 # Payroll Management System (Python GUI)
 
-A simple and user-friendly **Payroll Management System** built using **Python and Tkinter**.
-This application allows users to manage employee records, calculate salaries, and generate payslips through an interactive graphical interface.
+A simple and user-friendly **Payroll Management System** built using **Python **.
+This application allows users to manage employee records, calculate salaries, and generate payslips.
 
 ---
 
@@ -11,7 +11,6 @@ This application allows users to manage employee records, calculate salaries, an
 *  View All Employees
 *  Calculate Salary (HRA, DA, Tax)
 *  Delete Employee
-*  GUI Interface using Tkinter
 *  Real-time Payslip Display
 
 ---
@@ -39,7 +38,7 @@ The system calculates salary using:
 ```
 payrollsystem/
 │
-├── payroll_gui.py   # Main application file
+├── main.py          # Main application file
 ├── README.md        # Project documentation
 ```
 
@@ -75,11 +74,6 @@ python payroll_gui.py
 
 ---
 
-##  Application Preview
-
-(Add screenshots here if possible)
-
----
 
 ## Use Case
 
@@ -99,20 +93,6 @@ This project is useful for:
 * Authentication system
 
 ---
-
-##  Contributing
-
-Contributions are welcome!
-Feel free to fork this repo and submit a pull request.
-
----
-
-##  License
-
-This project is open-source and free to use.
-
----
-
 ## Acknowledgements
 
 Developed as a **micro project for learning and academic purposes**.
