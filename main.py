@@ -56,9 +56,6 @@ def delete_employee():
             return
 
     print(" Employee not found\n")
-
-
-# 📋 Menu
 def menu():
     while True:
         print("===== Payroll Management System =====")
@@ -83,7 +80,4 @@ def menu():
             break
         else:
             print(" Invalid choice\n")
-
-
-# ▶️ Run Program
 menu()
