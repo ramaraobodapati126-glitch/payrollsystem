@@ -1,4 +1,4 @@
-# 💼 Payroll Management System (Python GUI)
+# Payroll Management System (Python GUI)
 
 A simple and user-friendly **Payroll Management System** built using **Python and Tkinter**.
 This application allows users to manage employee records, calculate salaries, and generate payslips through an interactive graphical interface.
