@@ -64,9 +64,7 @@ def menu():
         print("3. Calculate Salary")
         print("4. Delete Employee")
         print("5. Exit")
-
         choice = input("Enter your choice: ")
-
         if choice == '1':
             add_employee()
         elif choice == '2':
