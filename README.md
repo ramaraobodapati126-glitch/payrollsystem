@@ -46,7 +46,7 @@ payrollsystem/
 
 ##  Installation
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/nagavardhan888/payrollsystem.git
@@ -55,7 +55,7 @@ cd payrollsystem
 
 ---
 
-### 2️⃣ Install Requirements
+###  Install Requirements
 
 Tkinter comes pre-installed with Python (usually).
 If not:
@@ -66,7 +66,7 @@ pip install tk
 
 ---
 
-## ▶ Running the Application
+##  Running the Application
 
 ```bash
 python payroll_gui.py
